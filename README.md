@@ -12,7 +12,7 @@ An AI-powered scheduling app that helps businesses automate their appointments a
 ## Installation
 To set up and run the project locally, follow these steps:
 
-` ```bash `
+```bash
 git clone https://github.com/AIhelpr/ai-scheduler.git
 cd ai-scheduler
 pip install -r requirements.txt
